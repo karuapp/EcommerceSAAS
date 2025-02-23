@@ -1,3 +1,0 @@
-
-@stack('affiliatesettings')
-@stack('auctionproductordersTab')
