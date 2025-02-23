@@ -1,0 +1,24 @@
+{
+    "section_name": "Bestseller - Slider",
+    "section_slug": "best_selling_slider",
+    "unique_section_slug": "best_selling_slider",
+    "section_enable": "on",
+    "array_type": "inner-list",
+    "loop_number": 1,
+    "section":{
+        "title":{
+            "lable" : "Bestseller Title",
+            "slug" :  "best_selling_slider_text",
+            "text" : "CATEGORIES",
+            "type" : "text",
+            "placeholder" : "Please enter here.."
+        },
+        "button":{
+            "lable" : "Bestseler Button",
+            "slug" :  "best_selling_slider_button",
+            "text" : "Go to categories",
+            "type" : "button",
+            "placeholder" : "Please enter here.."
+        }
+    }
+}
